@@ -2,11 +2,11 @@
 
 **Data Engineer @ EAB Global** | Washington, DC
 
-Data engineer and scientist who builds the infrastructure behind data-driven decisions — ETL/ELT pipelines, streaming architectures, warehouse design, and the ML systems that sit on top of them. 3+ years shipping production pipelines across Spark, Kafka, Airflow, Snowflake, and AWS at scale.
+Data Engineer with 3+ years of experience designing and optimizing cloud-native data pipelines at scale. I build the systems that move, transform, and deliver data — ETL/ELT pipelines, streaming architectures, warehouse modeling, and the monitoring that keeps it all reliable.
 
-At Oracle, I migrated petabyte-scale pipelines from ODI to Spark (30% faster, $50K/yr savings). At EAB, I build RAG pipelines over 10M+ student records using LangGraph and AWS Bedrock. At ASU, I ran PySpark workflows on Snowflake to analyze 100K+ career trajectories for workforce equity research.
+At EAB, I engineer dbt + Snowflake pipelines processing 10M+ student records with 99.9% reliability via AWS Step Functions, S3, Lambda, and CloudWatch. At Oracle, I migrated petabyte-scale pipelines from ODI to Spark, cutting processing time by 30% and saving $50K/year. At JPMorgan Chase, I optimized Kafka-driven streaming ETL and deployed cost-effective AWS data infrastructure.
 
-Previously: Oracle (Member of Technical Staff), CNRS France (NLP Research), JP Morgan Chase (Data Analyst).
+Previously: Oracle (Data Engineer), CNRS France (NLP Research Intern), JP Morgan Chase (Data Analyst Intern).
 
 **MS Computer Science, Arizona State University (4.0 GPA)** | B.E. BITS Pilani, Goa
 
@@ -14,11 +14,11 @@ Previously: Oracle (Member of Technical Staff), CNRS France (NLP Research), JP M
 
 ### What I Build
 
-- **Data Pipelines** — batch and streaming ETL/ELT with Spark, Kafka, Airflow, dbt, Snowpipe
-- **Cloud Infrastructure** — AWS (Lambda, Glue, S3, Redshift, Bedrock, SageMaker), Terraform, Docker, Kubernetes
-- **Data Warehousing** — Snowflake modeling, dbt transformations, dimensional design, Snowpipe auto-ingest
+- **Data Pipelines** — batch and streaming ETL/ELT with Spark, Kafka, Airflow, dbt, Snowpipe, AWS Glue
+- **Cloud Infrastructure** — AWS (S3, Redshift, Glue, Lambda, IAM, Step Functions), Azure (Blob, ADF, Functions), Terraform
+- **Data Warehousing** — Snowflake modeling, dbt transformations, Databricks, Snowpipe auto-ingest, Redshift
 - **Stream Processing** — Kafka producers/consumers, PySpark Structured Streaming, windowed aggregations, exactly-once semantics
-- **ML in Production** — RAG pipelines, transformer fine-tuning, model deployment, A/B testing, causal inference
+- **Monitoring & DevOps** — CloudWatch, Grafana, Docker, Kubernetes, CI/CD (GitLab CI/CD, GitHub Actions, Jenkins)
 
 ---
 
@@ -37,15 +37,11 @@ Previously: Oracle (Member of Technical Staff), CNRS France (NLP Research), JP M
 ### Tech Stack
 
 ```
-Orchestration     Airflow, dbt, Terraform
-Streaming         Kafka, PySpark Structured Streaming, Kafka Connect
-Batch Processing  Spark, AWS Glue, Databricks
-Warehousing       Snowflake, Redshift, Snowpipe
-Cloud             AWS (S3, Lambda, Glue, Bedrock, SageMaker, Redshift), Azure
-Languages         Python, SQL, Shell
-ML / AI           PyTorch, HuggingFace, LangChain, LangGraph, scikit-learn
-Visualization     Looker, Tableau, Power BI, Grafana
-DevOps            Docker, Kubernetes, CI/CD, Git
+Core              SQL, Python, Spark, Snowflake, Airflow, dbt, Kafka, Terraform
+Big Data & Cloud  Databricks, AWS (S3, Redshift, Glue, Lambda, IAM), Azure (Blob, ADF, Functions)
+Streaming         Kafka, PySpark Structured Streaming, Kafka Connect, Grafana
+Visualization     Looker, Tableau, Power BI
+DevOps            Docker, Kubernetes, Git, CI/CD (GitLab CI/CD, GitHub Actions, Jenkins)
 ```
 
 ---

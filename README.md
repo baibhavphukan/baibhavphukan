@@ -1,12 +1,12 @@
 # Hey, I'm Baibhav Phukan
 
-**Data Engineer @ EAB Global** | Washington, DC
+**Data Engineer @ Working America** | Washington, DC
 
-Data Engineer with 3+ years of experience designing and optimizing cloud-native data pipelines at scale. I build the systems that move, transform, and deliver data — ETL/ELT pipelines, streaming architectures, warehouse modeling, and the monitoring that keeps it all reliable.
+Data Engineer with 4+ years of experience designing and optimizing cloud-native data pipelines at scale. I build the systems that move, transform, and deliver data — ETL/ELT pipelines, streaming architectures, warehouse modeling, and the monitoring that keeps it all reliable.
 
 At EAB, I engineer dbt + Snowflake pipelines processing 10M+ student records with 99.9% reliability via AWS Step Functions, S3, Lambda, and CloudWatch. At Oracle, I migrated petabyte-scale pipelines from ODI to Spark, cutting processing time by 30% and saving $50K/year. At JPMorgan Chase, I optimized Kafka-driven streaming ETL and deployed cost-effective AWS data infrastructure.
 
-Previously: Oracle (Data Engineer), CNRS France (NLP Research Intern), JP Morgan Chase (Data Analyst Intern).
+Previously: EAB Global (Data Engineer), Oracle (Data Engineer), CNRS France (NLP Research Intern), JP Morgan Chase (Data Analyst Intern).
 
 **MS Computer Science, Arizona State University (4.0 GPA)** | B.E. BITS Pilani, Goa
 
